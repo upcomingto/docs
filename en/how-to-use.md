@@ -14,15 +14,11 @@ To use the service with Zoom, do the following:
 
 1. Press the "Sign in using Zoom" button.
      You will be redirected to the Zoom site.
-     
 2. Sign in to Zoom (optional)
       If you are not signed in to the Zoom site, the sign-in screen will be displayed. Enter the information and sign in.
-
 3. Allow application usage
 ![](images/zoom-auth.png)
-
       Upcoming allows you to receive information from Zoom to manage Zoom meetings and to display the user's profile. To accept this condition, click the "Authorize" button. If you do not accept this condition, please click "Reject".
-
 4. Sign-up (installation) is now complete!
     ![](images/zoom-success.png)
      If the screen displays "Zoom account authentication succeeded.", You are done.
