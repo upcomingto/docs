@@ -1,4 +1,4 @@
-How to use #Upcoming
+# How to use `Upcoming`
 
 # Sign up (install)
 
