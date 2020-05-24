@@ -42,9 +42,9 @@ To use the service using Facebook, do the following.
 
 Upcoming has three major functions.
 
--Set up a meeting
--Join a meeting
--Stay in touch with the meeting
+* Set up a meeting
+* Join a meeting
+* Stay in touch with the meeting
 
 ## Set up a meeting
 
